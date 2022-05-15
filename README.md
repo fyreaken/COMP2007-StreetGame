@@ -14,12 +14,12 @@ The player has alot of functionality in this game.
 
 Source Code could not be directly uploaded to this repository because of the main Game scene.
 
-- Mega: https://mega.nz/file/esdTzRgK#VkIYdrgyF_0RKbd2GIMEsVGMAVdbKzx6I884D93KVA0
-- Mediafire: https://www.mediafire.com/file/its9ofingn04sza/StreetGame.zip/file
+- Mega: https://mega.nz/file/m09x2YgA#sDxvBTJQzHo94x62I9z6swHgb29dJmGNWHxa2pXpH8U
+- Mediafire: https://www.mediafire.com/file/2j77mlh0x46k8zr/StreetGame.zip/file
 
 ### Latest Game Build
 
-- Mega: https://mega.nz/file/OpEy3QBK#4Et8kAEn0NVB1W2Jqf9ezrbVEpcFeNTMJc_RK4YdTN0
-- Mediafire: https://www.mediafire.com/file/jsk1dedhvkbie0n/streetgame_build.zip/file
+- Mega: https://mega.nz/file/msdziCZC#XqGom6sHbEUuva6cd5h79D_PNouIDc0TmxZbVjLgcy4
+- Mediafire: https://www.mediafire.com/file/le5d5nuaptrbt5v/streetgame_build.zip/file
 
 Created using Unity 2021.2.15f1 Personal
